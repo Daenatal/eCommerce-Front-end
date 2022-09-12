@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" [
+	<!ENTITY ns_extend "http://ns.adobe.com/Extensibility/1.0/">
+	<!ENTITY ns_ai "http://ns.adobe.com/AdobeIllustrator/10.0/">
+	<!ENTITY ns_graphs "http://ns.adobe.com/Graphs/1.0/">
+	<!ENTITY ns_vars "http://ns.adobe.com/Variables/1.0/">
+	<!ENTITY ns_imrep "http://ns.adobe.com/ImageReplacement/1.0/">
+	<!ENTITY ns_sfw "http://ns.adobe.com/SaveForWeb/1.0/">
+	<!ENTITY ns_custom "http://ns.adobe.com/GenericCustomNamespace/1.0/">
+	<!ENTITY ns_adobe_xpath "http://ns.adobe.com/XPath/1.0/">
+]>
+<svg width="60px" height="49px" version="1.1" id="layer1" xmlnsX="&ns_extend;" xmlnsI="&ns_ai;" xmlnsGraph="&ns_graphs;"
+	 xmlns="http://www.w3.org/2000/svg" xmlnsXlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 420 420"
+	 enable-background="new 0 0 420 420" xmlSpace="preserve">
+<metadata>
+	<sfw  xmlns="&ns_sfw;">
+		<slices></slices>
+		<sliceSourceBounds  height="60" width="60" y="10" x="10.3" bottomLeftOrigin="true"></sliceSourceBounds>
+	</sfw>
+</metadata>
+<g>
+	<circle fill="#00A085" cx="210.3" cy="210.5" r="200"/>
+	<path fill="#1C414C" d="M191.5,234h-0.8c-2.8-15.4-12.6-26.7-24.3-26.7c-11.6,0-21.4,11.3-24.3,26.7h-0.8
+		c0-19.8,11.2-35.9,25.1-35.9C180.3,198.1,191.5,214.1,191.5,234z"/>
+	<path fill="#1C414C" d="M290,234h-0.8c-2.8-15.4-12.6-26.7-24.3-26.7c-11.6,0-21.4,11.3-24.3,26.7h-0.8c0-19.8,11.2-35.9,25.1-35.9
+		C278.8,198.1,290,214.1,290,234z"/>
+	<path fill="#1C414C" d="M339.3,234h-0.8c-2.8-15.4-12.6-26.7-24.3-26.7c-11.6,0-21.4,11.3-24.3,26.7h-0.8
+		c0-19.8,11.2-35.9,25.1-35.9C328.1,198.1,339.3,214.1,339.3,234z"/>
+	<polygon fill="#1C414C" points="337.3,204.7 340,206.2 340,211.5 338.6,213.9 334.7,209.6 331.3,204.7 	"/>
+	<rect x="213" y="70.1" fill="#2B5565" width="5.6" height="249.4"/>
+	<polygon fill="#2B5565" points="213,69.8 215.8,65 218.6,69.8 	"/>
+	<path fill="#2B5565" d="M213,319c0,8.1-6.4,14.3-14.3,14.3s-14.3-6.2-14.3-14.3H179c0,0,0,0.2,0,0.2c0,11,8.9,19.8,19.9,19.8
+		c11,0,19.9-8.9,19.9-19.8V319H213z"/>
+	<circle fill="#2B5565" cx="181.6" cy="319.2" r="2.8"/>
+	<rect x="210.5" y="295.6" fill="#2B5565" width="7.3" height="6.6"/>
+	<polygon fill="#1C414C" points="91.6,211.2 91.6,234 92.1,234 94.7,222.1 101.7,206.7 128.1,206.2 137.9,218.6 141.3,228.2 
+		144.6,222.1 148.2,214.6 156.1,206.2 180.2,207.8 187.8,219.2 190.8,228.8 193.2,222.5 198,213.9 203.6,206.3 228.1,207.2 
+		236.9,218.8 239.8,228.3 241.9,224.8 245.8,215.7 252.2,206.5 271.4,206.8 280.8,210.3 283.3,215.3 287.4,223.2 288.8,228.6 
+		291.6,223.5 296.6,213.6 302.3,206.7 329.3,206.8 336.3,219.5 337.8,227.6 339.3,234 340,234 340,211.2 333.1,204.9 95.9,204.9 	
+		"/>
+	<path fill="#1C414C" d="M340,206.2H91.6c0-68.6,55.6-124.2,124.2-124.2S340,137.6,340,206.2z"/>
+	<path fill="#1C414C" d="M142.3,234h-0.8c-2.8-15.4-12.6-26.7-24.3-26.7c-11.6,0-21.4,11.3-24.3,26.7h-0.8
+		c0-19.8,11.2-35.9,25.1-35.9S142.3,214.1,142.3,234z"/>
+	<polygon fill="#1C414C" points="91.6,212 91.6,206.2 96.4,202.3 98.2,207.7 93.1,214.7 	"/>
+	<path fill="#1C414C" d="M240.8,234H240c-2.8-15.4-12.6-26.7-24.3-26.7c-11.6,0-21.4,11.3-24.3,26.7h-0.8
+		c0-19.8,11.2-35.9,25.1-35.9C229.6,198.1,240.8,214.1,240.8,234z"/>
+</g>
+</svg>
