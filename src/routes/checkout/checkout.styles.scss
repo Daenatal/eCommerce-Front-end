@@ -1,0 +1,17 @@
+.checkout-Item {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+
+    img {
+        width: 10%;
+    }
+
+    .checkout-text {
+        width: 280px;
+        font-size: 32px;
+    }
+}
+
