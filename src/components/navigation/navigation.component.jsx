@@ -1,5 +1,5 @@
 import { Fragment, useContext } from 'react'
-import { Outlet, Link } from 'react-router-dom';
+import { Outlet } from 'react-router-dom';
 
 import { ReactComponent as ShopLogo } from '../../assets/umbrella.svg';
 
@@ -11,7 +11,8 @@ import { CartContext } from '../../contexts/cart.context';
 
 import { signOutUser } from '../../utils/firebase/firebase.utils'
 
-import './navigation.styles.scss';
+import {NavigationContainer, NavLinks, LogoContainer, LinkContainer} from './navigation.styles';
+
 const Navigation = () => {
     const { currentUser } = useContext(UserContext);
     const { isCartOpen } = useContext(CartContext);
@@ -22,27 +23,27 @@ const Navigation = () => {
     //console.log(currentUser);
     return (
         <Fragment>
-            <div className='navigation'>
-                <Link className='logo-container' to='/'>
+            <NavigationContainer>
+                <LogoContainer to='/'>
                     <ShopLogo class='logo' />
-                </Link>
-                <div className='nav-links-container'>
-                    <Link className='nav-link' to='/shop'>
+                </LogoContainer>
+                <NavLinks>
+                    <LinkContainer to='/shop'>
                         SHOP
-                    </Link>
+                    </LinkContainer>
                     {
                         currentUser? (
-                            <span className='nav-link' onClick={signOutUser}> SIGN OUT</span>
+                            <LinkContainer as='span' onClick={signOutUser}> SIGN OUT</LinkContainer>
                             ) : ( 
-                            <Link className='nav-link' to='/auth'>
+                            <LinkContainer to='/auth'>
                             SIGN IN
-                            </Link>
+                            </LinkContainer>
                         )
                     }
                     <CartIcon />
-                </div>
+                </NavLinks>
                 {isCartOpen && <CartDropDown />}
-            </div>
+            </NavigationContainer>
             <Outlet />
         </Fragment>  
     );
