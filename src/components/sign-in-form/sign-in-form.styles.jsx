@@ -9,6 +9,10 @@ export const SignUpContainer = styled.div`
 export const SignUpHeader = styled.h2`
     margin: 10px 0;
 `
+export const ButtonContainer = styled.div`
+    display: flex;
+    justify-content: space-between;
+`;
 
 // .sign-up-container {
     
@@ -18,7 +22,6 @@ export const SignUpHeader = styled.h2`
 //     }
     
 //     .buttons-container {
-//         display: flex;
-//         justify-content: space-between;
+//         
 //     }
 // }
